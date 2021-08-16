@@ -1,4 +1,5 @@
 import logging
+
 import pytest
 from python_pytest.logging import log_iterations
 

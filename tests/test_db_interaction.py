@@ -1,3 +1,4 @@
+# type: ignore
 from python_pytest.db_interaction import User, save_user
 
 

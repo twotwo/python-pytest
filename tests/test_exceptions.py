@@ -6,4 +6,3 @@ from python_pytest import exceptions
 def test_raise_exc(exc):
     with pytest.raises(exc):
         exceptions.raise_exc(exc)
-    

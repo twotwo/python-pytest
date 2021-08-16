@@ -25,5 +25,3 @@ def is_first_name(name: str) -> bool:
 
 def is_before_datetime(from_date: datetime, to_date: datetime) -> bool:
     return from_date < to_date
-
-
